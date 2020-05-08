@@ -1,7 +1,6 @@
 body {
     background-color: black;
 
-
 }
 
 .responsive {
@@ -14,24 +13,20 @@ body {
 
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
     /* IE 8 */
-    filter: alpha(opacity=0.97);
+    filter: alpha(opacity=0.80);
     /* IE 5-7 */
-    -moz-opacity: 0.97;
+    -moz-opacity: 0.80;
     /* Netscape */
-    -khtml-opacity: 0.97;
+    -khtml-opacity: 0.80;
     /* Safari 1.x */
-    opacity: 0.95;
+    opacity: 0.80;
     /* Good browsers */
 }
 
 .parallax-LH {
     /* The image used */
 
-
-
     background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/36-LLHbanner2002.jpg");
-
-
 
     /* Set a specific height */
     min-height: 100vh;
