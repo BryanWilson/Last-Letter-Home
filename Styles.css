@@ -9,7 +9,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+.nav-link {
 
     font-family: ltc-bodoni-175,
         serif;
