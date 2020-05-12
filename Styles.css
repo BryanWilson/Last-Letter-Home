@@ -8,6 +8,15 @@ body {
     height: auto;
 }
 
+h1,
+h2 {
+
+    font-family: ltc-bodoni-175,
+        serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
 
 .transparent {
 
@@ -50,9 +59,6 @@ body {
 
 
     background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/36 - LLH banner.jpg");
-
-
-
     /* Set a specific height */
     height: 70vh;
     min-width: 1vh;
@@ -103,18 +109,18 @@ body {
 
 .section {
     min-height: 20vh;
-    color: white;
+    color: black;
     box-shadow: 0p 10px #888888;
     padding: 100px;
     margin-top: 100px;
     border-bottom-style: solid;
     border-width: medium;
-    background-color: 373C3F;
+    background-color: #EFD19D;
     border-radius: 10px;
     border-color: #A7641B;
     border-top-style: solid;
     border-width: small;
-    background-color: #363B3F;
+    background-color: #EFD19D;
     text-align: left;
 
 }
