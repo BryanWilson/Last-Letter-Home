@@ -1,6 +1,6 @@
 body {
-    background-color: black;
 
+    background-image: linear-gradient(to right bottom, #000000, #100d0d, #1a1616, #221e1d, #2b2623, #3b2f26, #493928, #57432a, #715128, #8c5f25, #a96d21, #c77b1a);
 }
 
 .responsive {
@@ -191,7 +191,7 @@ h2 {
     min-height: 20vh;
     color: black;
     box-shadow: 0p 10px #888888;
-    margin-top: 100px;
+    margin-top: 50px;
     border-bottom-style: solid;
     border-width: medium;
     background-color: #EFD19D;
