@@ -69,7 +69,7 @@ h2 {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    min-height: 1000vh;
+    min-height: 100vh;
     min-width: 1vh;
     /* Create the parallax scrolling effect */
 
