@@ -144,9 +144,10 @@ h2 {
     height: 40vh;
     min-width: 1vh;
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: top;
+    background-size: auto;
+    background-attachment: local;
     background-repeat: no-repeat;
+
 
 }
 
@@ -179,8 +180,8 @@ h2 {
     height: 40vh;
     min-width: 1vh;
     /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: top;
+    background-size: auto;
+    background-attachment: local;
     background-repeat: no-repeat;
 
 
