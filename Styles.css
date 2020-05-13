@@ -99,6 +99,19 @@ h2 {
     background-size: cover;
 }
 
+.EventInformation-Mobile {
+    /* The image used */
+
+    background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/36 - LLH banner.jpg");
+    /* Set a specific height */
+    height: 60vh;
+    min-width: 1vh;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
 .parallax-Federal {
     /* The image used */
 
@@ -118,6 +131,25 @@ h2 {
     background-size: cover;
 }
 
+.Federal-Mobile {
+    /* The image used */
+
+
+
+    background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/LLH-FederalGuidelines.jpg");
+
+
+
+    /* Set a specific height */
+    height: 40vh;
+    min-width: 1vh;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+
+}
+
 .parallax-Confederate {
     /* The image used */
 
@@ -135,6 +167,23 @@ h2 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.Confederate-Mobile {
+
+    background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/LLH-ConfederateGuidelines.jpg");
+
+
+
+    /* Set a specific height */
+    height: 40vh;
+    min-width: 1vh;
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+
+
 }
 
 .section {
