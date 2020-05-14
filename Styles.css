@@ -16,6 +16,7 @@ h3 {
         serif;
     font-style: normal;
     font-weight: 400;
+    text-shadow: 2px 2px 8px grey;
 }
 
 .nav-link,
@@ -201,12 +202,11 @@ h3 {
     margin-top: 50px;
     margin-bottom: 50px;
     border-bottom-style: solid;
-    border-width: medium;
     background-color: #EFD19D;
-    border-radius: 10px;
+    border-radius: 40px;
     border-color: #A7641B;
-    border-top-style: solid;
-    border-width: small;
+    border-top-style: double;
+    border-width: thick;
     background-color: antiquewhite;
     text-align: left;
 
@@ -217,15 +217,15 @@ h3 {
     font-family: ltc-bodoni-175,
         serif;
     font-style: normal;
-    font-weight: 400;
-
+    font-weight: 500;
     min-height: 20vh;
     box-shadow: 0p 10px #888888;
     margin-top: 50px;
-    border-bottom-style: solid;
+    margin-bottom: 50px;
+    border-bottom-style: double;
     border-width: medium;
     background-color: #EFD19D;
-    border-radius: 10px;
+    border-radius: 5px;
     border-color: #A7641B;
     border-top-style: solid;
     border-width: small;
