@@ -9,7 +9,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
 
     font-family: ltc-bodoni-175,
         serif;
@@ -188,8 +189,26 @@ h2 {
 }
 
 .section {
+
     min-height: 20vh;
     color: black;
+    box-shadow: 0p 10px #888888;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom-style: solid;
+    border-width: medium;
+    background-color: #EFD19D;
+    border-radius: 10px;
+    border-color: #A7641B;
+    border-top-style: solid;
+    border-width: small;
+    background-color: antiquewhite;
+    text-align: left;
+
+}
+
+.quote-Section {
+    min-height: 20vh;
     box-shadow: 0p 10px #888888;
     margin-top: 50px;
     border-bottom-style: solid;
@@ -199,7 +218,7 @@ h2 {
     border-color: #A7641B;
     border-top-style: solid;
     border-width: small;
-    background-color: #EFD19D;
+    background-color: EFD19D;
     text-align: left;
 
 }
