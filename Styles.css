@@ -57,11 +57,11 @@ h3 {
 
     background-image: linear-gradient(319deg, rgb(29, 18, 4, 0.5), rgb(242, 192, 16, 0.3), rgb(200, 107, 30, 0.5)), url("Images/36-LLHbanner2002.jpg");
     /* Set a specific height */
-    height: 70vh;
+    height: 100vh;
     min-width: 1vh;
     /* Create the parallax scrolling effect */
-    background-attachment: ;
-    background-position: bottom;
+    background-attachment: fixed;
+    background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
