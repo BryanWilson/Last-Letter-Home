@@ -8,6 +8,9 @@ body {
     height: auto;
 }
 
+.fab {
+    margin: 7px !important;
+}
 
 
 /*Check out the HTML itself for solutions!*/
@@ -223,7 +226,7 @@ h3 {
     margin-top: 50px;
     margin-bottom: 50px;
     border-bottom-style: solid;
-    background-color: #EFD19D;
+    background-color: #EDCE98;
     border-radius: 40px;
     border-color: #A7641B;
     border-top-style: double;
